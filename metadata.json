@@ -1,0 +1,5 @@
+{
+  "name": "Network Response Time Tester",
+  "description": "A web-based tool to measure HTTP/HTTPS GET and TCP connection response times for a given host and port. It provides live feedback on response duration and status codes, resolving domain names to IP addresses automatically.",
+  "requestFramePermissions": []
+}
